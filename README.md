@@ -1,5 +1,4 @@
 My Website
+- http://youngwook-mri.github.io
 
-http://youngwook-mri.github.io
-
-Used *jemdoc + MathJax* (https://github.com/wsshin/jemdoc_mathjax)
+This website was built using *jemdoc + MathJax* (https://github.com/wsshin/jemdoc_mathjax).
