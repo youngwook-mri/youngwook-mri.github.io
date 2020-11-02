@@ -1,15 +1,16 @@
 Info
 	Home				[index.html]
 	Talks				[talks.html]
-	Publications		[publications.html]
-#	Lab					[lab.html]
+	Publications			[publications.html]
+	Software			[software.html]
+#	Lab				[lab.html]
 #	Openings			[openings.html]
-#	CV					[\cv/cv_ykee_May12_2020.pdf]
+#	CV				[\cv/cv_ykee_May12_2020.pdf]
 
 #Publications
 #	PubMed				[\https://pubmed.ncbi.nlm.nih.gov/?term=Youngwook+Kee%5BAuthor%5D]
 #	DBLP				[\https://dblp.uni-trier.de/pers/hd/k/Kee:Youngwook]
 
-#Etc
+Etc
 #	Missing Semester	[\missing_semester.html]
-#	News Archive		[\news_archive.html]
+	News Archive		[\news_archive.html]
