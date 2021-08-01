@@ -1,11 +1,17 @@
 Info
-	Home				[index.html]
-	Talks				[talks.html]
-	Publications		[publications.html]
-	Software			[software.html]
-#	Lab					[lab.html]
+    Home                [index.html]
+    Talks               [talks.html]
+    Publications        [publications.html]
+    Software            [software.html]
+    NIH Biosketch       [biosketch.html]
+    Team                [team.html]
+#    Team                [keelab.html]
+#	Lab				[lab.html]
 #	Openings			[openings.html]
-#	CV					[\cv/cv_ykee_May12_2020.pdf]
+#	CV				[\cv/cv_ykee_May12_2020.pdf]
+
+#Team
+#	Kee Lab				[keelab.html]
 
 #Publications
 #	PubMed				[\https://pubmed.ncbi.nlm.nih.gov/?term=Youngwook+Kee%5BAuthor%5D]
