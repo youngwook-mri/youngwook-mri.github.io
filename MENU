@@ -1,8 +1,9 @@
 Info
-    Home                [index.html]
-    Talks               [talks.html]
-    Publications        [publications.html]
-    Software            [software.html]
+    PI                [index.html]
+#    Talks               [talks.html]
+#    Publications        [publications.html]
+    Team                [keelab.html]
+#    Software            [software.html]
 #    NIH Biosketch       [biosketch.html]
 #    Team                [keelab.html]
 #	Lab				[lab.html]
