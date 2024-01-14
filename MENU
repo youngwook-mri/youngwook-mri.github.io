@@ -1,6 +1,5 @@
 Info
     PI                [index.html]
-#    Talks               [talks.html]
 #    Publications        [publications.html]
     Team                [keelab.html]
 #    NIH Biosketch       [biosketch.html]
@@ -17,6 +16,7 @@ Info
 #	DBLP				[\https://dblp.uni-trier.de/pers/hd/k/Kee:Youngwook]
 
 Etc
+    Talks               [talks.html]
 #	Missing Semester	[\missing_semester.html]
 #   Blog                [blog.html]
 #   Software            [software.html]
